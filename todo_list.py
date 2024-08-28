@@ -1,4 +1,3 @@
-import os
 
 def display_menu():
     print("\n--- To-Do List Menu ---")
